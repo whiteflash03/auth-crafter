@@ -1,0 +1,16 @@
+{
+  "name": "auth-crafter",
+  "version": "1.0.1",
+  "description": "A secure and framework-agnostic auth utility toolkit for Node.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jwt", "auth", "token", "security", "access token", "refresh token", "nodejs"],
+  "author": "whiteflash03",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
